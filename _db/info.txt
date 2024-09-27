@@ -1,0 +1,39 @@
+
+Falafel Sandwich
+
+Price: 20
+
+falafel.jpg
+
+Three pieces of falafel garnished with tomatoes, lettuce, onions, and pickles and topped with Tahini sauce
+
+
+===================================
+Greek Grape Soda
+
+Price: 10
+ss_grape.jpg
+
+Grape-flavored soda drink, the exotic fruit turns into an explosion of unique flavors.
+
+===================================
+
+Chicken Fillet
+
+price: 80 
+
+chicken_fillet.jpg
+
+A juicy chicken breast encased in our special crispy coating with cool mustard sauce, tomatoes, and onions
+
+
+===================================
+
+Egg & Cheese Wrap
+
+One piece of chicken roll, and one slice of cheddar cheese all wrapped in a toasted tortilla.
+
+Price: 45
+
+egg_wrap.jpg
+
